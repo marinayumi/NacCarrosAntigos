@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/brasilia"
+            android:title="Brasilia"
+            android:icon="@drawable/ic_directions_car_black_24dp"/>
+        <item
+            android:id="@+id/kombi"
+            android:icon="@drawable/ic_directions_car_black_24dp"
+            android:title="Kombi" />
+        <item
+            android:id="@+id/fusca"
+            android:title="Fusca"
+            android:icon="@drawable/ic_directions_car_black_24dp"/>
+        <item
+            android:id="@+id/ferrari"
+            android:title="Ferrari"
+            android:icon="@drawable/ic_directions_car_black_24dp"/>
+        <item
+            android:id="@+id/d10"
+            android:title="D10"
+            android:icon="@drawable/ic_directions_car_black_24dp"/>
+        <item
+            android:id="@+id/opala"
+            android:title="Opala"
+            android:icon="@drawable/ic_directions_car_black_24dp"/>
+
+    </group>
+
+
+</menu>

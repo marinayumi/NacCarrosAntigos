@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Carros Antigos</string>
+    <string name="user">Marina Yumi - RM75865</string>
+    <string name="abrir">abrir</string>
+    <string name="fechar">fechar</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="brasilia">Brasilia - 1973</string>
+    <string name="txtbrasilia">O Brasília foi um dos primeiros Volkswagen a serem projetados e construídos
+        fora da matriz alemã, sendo o também brasileiro SP2 o primeiro. O então presidente da Volkswagen do Brasil,
+        Rudolph Leidig, inspirado pelo SP2, desafiou os engenheiros da marca a produzir uma nova versão do Fusca,
+        porém adaptado ao mercado nacional. O modelo deveria oferecer mais espaço, deveria utilizar a mesma mecânica,
+        porém deveria parecer mais contemporâneo</string>
+
+    <string name="d10">D10 - 1985</string>
+    <string name="txtd10">A Série 20 surgiu em 1985 como a remodelagem da Série 10, pickup de mesmo porte que a antecedeu. Nesse período, o mercado de utilitários era acirradamente disputado entre a
+        Ford e a Chevrolet, e a Série 10 já demonstrava sinais de cansaço perante sua concorrente, a série de utilitários
+        "F" da Ford.</string>
+
+    <string name="ferrari">Ferrari 250 GTO - 1962</string>
+    <string name="txtferrari">A parte numérica do nome indica o deslocamento em centímetros cúbicos de cada cilindro do motor,
+        enquanto GTO está para "Gran Turismo Omologata", italiano para "Grand Touring Homologado." Ainda em 1962, as vendas do
+        modelo nos Estados Unidos eram complexas, os compradores tinham de ser aprovados pessoalmente por Enzo Ferrari juntamente
+        com o representante da América do Norte, Luigi Chinetti.</string>
+
+
+    <string name="fusca">Fusca - 1972</string>
+    <string name="txtfusca">A história do Fusca é uma das mais complexas e longas da história do automóvel.
+        Diferente da maioria dos outros carros, o projeto do Fusca envolveu várias empresas e até mesmo o governo de seu país,
+        e levaria à fundação de uma fábrica inteira de automóveis no processo</string>
+
+
+    <string name="kombi">Kombi - 1950</string>
+    <string name="txtkombi">O nome Kombi vem do alemão Kombinationsfahrzeug que quer dizer "veículo combinado"
+        (ou "veículo multi-uso", em uma tradução mais livre). O conceito por trás da Kombi surgiu no final dos anos 1940,
+        ideia do importador holandês Ben Pon, que anotou em sua agenda desenhos de um tipo de veículo inédito até então,
+        baseando-se em uma perua feita sobre o chassi do Fusca. </string>
+
+
+    <string name="opala">Opala - 1968</string>
+    <string name="txtopala">Fora fabricado ao longo de 23 anos e cinco meses na cidade paulista São Caetano do Sul,
+        localizada na Região Metropolitana de São Paulo, passando por atualizações estéticas e mecânicas, sendo mantido
+        o projeto original, até ao dia 16 de abril de 1992, uma quinta-feira.</string>
+
+
+</resources>
